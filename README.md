@@ -8,9 +8,8 @@ A modern, responsive navigation bar component built with HTML, CSS, and vanilla 
 2. Smooth Animations - CSS transitions for professional user experience <br>
 3. Hamburger Menu - Clean mobile navigation with slide-in animation <br>
 4. Overlay Background - Semi-transparent backdrop for better focus <br>
-5. Accessibility Support - Keyboard navigation and proper ARIA handling <br>
-6. Modern Styling - Clean, professional design with hover effects <br>
-7. Zero Dependencies - Pure HTML, CSS, and JavaScript <br>
+5. Modern Styling - Clean, professional design with hover effects <br>
+6. Zero Dependencies - Pure HTML, CSS, and JavaScript <br>
 
 
 Video/Screenshot 
